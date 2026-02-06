@@ -53,10 +53,7 @@ const ART = [
 
 const SEARCHES = [
   'where should i bury the body',
-  'kendime kürüf etmek istiyorum',
   'why does my eye twitch',
-  'ben gay miyim',
-  'babamdan nasıl kurtulunur',
   'why is my poop green',
   'why do i feel so empty',
   'why do i always feel hungry',
@@ -718,7 +715,7 @@ function requestWebauthnAttestation () {
         // User:
         user: {
           id: new Uint8Array(16),
-          name: 'YOU_ARE_HACKED@HACIHACER.COM',
+          name: 'YOU_ARE_HACKED@THEANNOYINGSITE.COM',
           displayName: 'YOU ARE HACKED'
         },
 
