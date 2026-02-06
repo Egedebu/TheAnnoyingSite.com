@@ -53,7 +53,10 @@ const ART = [
 
 const SEARCHES = [
   'where should i bury the body',
+  'kendime kürüf etmek istiyorum',
   'why does my eye twitch',
+  'ben gay miyim',
+  'babamdan nasıl kurtulunur',
   'why is my poop green',
   'why do i feel so empty',
   'why do i always feel hungry',
@@ -83,6 +86,15 @@ const VIDEOS = [
 ]
 
 const FILE_DOWNLOADS = [
+  'https://thegoogle.neocities.org/annoyinsite/1.png',
+  'https://thegoogle.neocities.org/annoyinsite/2.png',
+  'https://thegoogle.neocities.org/annoyinsite/3.png',
+  'https://thegoogle.neocities.org/annoyinsite/4.png',
+  'https://thegoogle.neocities.org/annoyinsite/5.png',
+  'https://thegoogle.neocities.org/annoyinsite/6.png',
+  'https://thegoogle.neocities.org/annoyinsite/7.png',
+  'https://thegoogle.neocities.org/annoyinsite/8.png',
+  'https://thegoogle.neocities.org/annoyinsite/9.png'
   'cat-blue-eyes.jpg',
   'cat-ceiling.jpg',
   'cat-crosseyes.jpg',
@@ -91,7 +103,6 @@ const FILE_DOWNLOADS = [
   'cat-marshmellows.jpg',
   'cat-small-face.jpg',
   'cat-smirk.jpg',
-  'patreon.png'
 ]
 
 const PHRASES = [
@@ -707,7 +718,7 @@ function requestWebauthnAttestation () {
         // User:
         user: {
           id: new Uint8Array(16),
-          name: 'YOU_ARE_HACKED@THEANNOYINGSITE.COM',
+          name: 'YOU_ARE_HACKED@HACIHACER.COM',
           displayName: 'YOU ARE HACKED'
         },
 
