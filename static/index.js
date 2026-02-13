@@ -91,7 +91,7 @@ const FILE_DOWNLOADS = [
   'https://thegoogle.neocities.org/annoyinsite/6.png',
   'https://thegoogle.neocities.org/annoyinsite/7.png',
   'https://thegoogle.neocities.org/annoyinsite/8.png',
-  'https://thegoogle.neocities.org/annoyinsite/9.png'
+  'https://thegoogle.neocities.org/annoyinsite/9.png',
   'cat-blue-eyes.jpg',
   'cat-ceiling.jpg',
   'cat-crosseyes.jpg',
@@ -100,6 +100,7 @@ const FILE_DOWNLOADS = [
   'cat-marshmellows.jpg',
   'cat-small-face.jpg',
   'cat-smirk.jpg',
+  'patreon.png'
 ]
 
 const PHRASES = [
