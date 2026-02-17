@@ -83,15 +83,6 @@ const VIDEOS = [
 ]
 
 const FILE_DOWNLOADS = [
-  'https://thegoogle.neocities.org/annoyinsite/1.png',
-  'https://thegoogle.neocities.org/annoyinsite/2.png',
-  'https://thegoogle.neocities.org/annoyinsite/3.png',
-  'https://thegoogle.neocities.org/annoyinsite/4.png',
-  'https://thegoogle.neocities.org/annoyinsite/5.png',
-  'https://thegoogle.neocities.org/annoyinsite/6.png',
-  'https://thegoogle.neocities.org/annoyinsite/7.png',
-  'https://thegoogle.neocities.org/annoyinsite/8.png',
-  'https://thegoogle.neocities.org/annoyinsite/9.png',
   'cat-blue-eyes.jpg',
   'cat-ceiling.jpg',
   'cat-crosseyes.jpg',
